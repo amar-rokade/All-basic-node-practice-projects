@@ -1,0 +1,12 @@
+web brower
+
+RES API > Htpp -> GET , POST , PATCH , DELETE
+
+DATABASE -> Mongodb 
+
+WEBFRAMEWORK -> EXPRESS
+
+url : http://localhost:8000
+GET : http://localhost:8000/<ID>/
+POST : http://localhost:8000/SOMETHING/
+PATCH : http://localhost:8000/<id>

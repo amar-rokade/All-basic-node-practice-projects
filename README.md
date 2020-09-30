@@ -1,2 +1,2 @@
 # node-practice
-this we basic practice for node js
+this is basic practice for node js

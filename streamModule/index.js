@@ -17,9 +17,9 @@ server.on('request', (req,res) => {
     rstream.on("end",()=>{
         res.end()
     })
-    rstream.on("error",()=>{
+    rstream.on("error",()=>{ 
         console.log(err)
-        res.end("ënd")
+        res.end("error")
     })
 })
 
